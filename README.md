@@ -2,4 +2,4 @@
 
 By Paul Iskra, J326C
 
-HTML Practice, due 9/15
+CSS Practice, due 9/22
